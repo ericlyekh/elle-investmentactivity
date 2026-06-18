@@ -1,5 +1,5 @@
 const WEBHOOK_URL =
-  "https://ellen8n73.app.n8n.cloud/webhook-test/12663502-ff47-45b6-9a8f-c67c083603d9";
+  "https://ellen8n73.app.n8n.cloud/webhook/12663502-ff47-45b6-9a8f-c67c083603d9";
 
 const enquiryForm = document.querySelector("#enquiryForm");
 const formStatus = document.querySelector("#formStatus");
